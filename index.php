@@ -15,7 +15,7 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
 
 <!-- The navbar - The <a> elements are used to jump to a section in the scrollable area -->
-<nav class="navbar navbar-expand-lg navbar-light " style="background-color:7D7461">
+<nav class="navbar navbar-expand-lg navbar-light " style="background-color:696387">
   <a class="navbar-brand" href="#">Bre-AI-k Out</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -85,13 +85,13 @@
     <!-- Buttons and Cam -->
     <div class="row">
       <div class="col-4">
-        <button id="class-left" class="btn btn-dark" style="background-color:39304A"><h2>Left<h2></button>
+        <button id="class-left" class="btn btn-dark"><h2>Left<h2></button>
       </div>
       <div class="col-4">
         <video autoplay="true" id="webcam" width="350" height="224"></video>
         </div>
       <div class="col-4">
-        <button id="class-right" class="btn btn-dark" style="background-color:39304A"><h2>Right<h2></button>
+        <button id="class-right" class="btn btn-dark"><h2>Right<h2></button>
       </div>
     </div>
 

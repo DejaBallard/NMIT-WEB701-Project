@@ -57,3 +57,12 @@ a{
     font-style: italic;
     color: 75394D;
 }
+.bg{
+    background-image: url("IMG/panel.jpg")
+}
+button{
+    background-color: 75394D;
+}
+.navbar-brand{
+    font-size: 30px;
+}
