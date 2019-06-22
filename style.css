@@ -2,7 +2,7 @@
      cursor: pointer; 
 }
 #webcam {   
-    background-color: #635C51;
+    background-color: #696387;
     transform: rotateY(180deg);
     -webkit-transform:rotateY(180deg); /* Safari and Chrome */
     -moz-transform:rotateY(180deg);    
@@ -39,7 +39,7 @@ height: 225px;
     left: 150px;
 }
 h1{
-    color: 202030;
+    color: 75394D;
     text-align:center;
 }
 p{
@@ -50,9 +50,10 @@ p{
     text-align:center;
 }
 body{
-    background-color: B0A990;
+    background-color: #CFC3E8;
 }
 a{
-    font-size: 20px;
+    font-size: 30px;
     font-style: italic;
+    color: 75394D;
 }
