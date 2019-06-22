@@ -133,7 +133,8 @@
       <div class="col-12">
         <div id="github">
           <div class="buttonHolder">
-            <button class="btn btn-dark" style="background-color:39304A"><h2>GitHub Link<h2></button>
+            <a href="https://github.com/DejaBallard/NMIT-WEB701-Project"><button class="btn btn-dark" style="background-color:39304A"><h2>GitHub Link<h2></button>
+</a>
           </div>
         </div>
       </div>
